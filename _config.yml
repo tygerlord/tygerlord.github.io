@@ -5,5 +5,11 @@ description: Divers sujets techniques
 github:
   is_project_page: false
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
 plugins:
 - jekyll-remote-theme
