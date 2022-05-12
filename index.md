@@ -17,5 +17,6 @@
   {% endfor %}
 </ul>
 
-<< La science est en comme l'univers, en expansion, chaque réponse apporte 10 nouvelles questions.>>
-
+<h1>
+<< La science est comme l'univers, en expansion, chaque réponse apporte 10 nouvelles questions.>>
+</h1>
