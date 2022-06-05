@@ -1,7 +1,9 @@
 remote_theme: pages-themes/slate@v0.2.0
 
 title: Le blog du Tigre
-description: Divers sujets techniques et philosophiques qui m'interressent
+title_en: The Tiger's Blog
+description: Divers sujets techniques et philosophiques qui m'intéressent
+description_en: Various technical and philosophical topics that interest me
 lang: fr_FR
 github:
   is_project_page: false
@@ -14,3 +16,4 @@ defaults:
       
 plugins:
 - jekyll-remote-theme
+
