@@ -3,7 +3,7 @@ layout: default_en
 title_fr: /fr/index.html
 ---
 
-{% include image.html file="assets/img/citation-george-bernard-shaw-45201_en.png" url="www.citation-celebre.com" alt="" %}
+{% include image.html file="/assets/img/citation-george-bernard-shaw-45201_en.png" url="www.citation-celebre.com" alt="" %}
 
 
 <ul>
