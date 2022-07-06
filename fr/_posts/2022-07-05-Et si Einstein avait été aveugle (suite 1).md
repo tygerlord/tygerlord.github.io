@@ -45,4 +45,4 @@ C'est l'expérience type qui brise la localité en mettant la conséquence avant
 
 ---
 
-Ceci n'est qu'une théorie et demande des approfondissements sur la descriptions des phénomènes et leurs démonstrations.
+Ceci n'est qu'une théorie et demande des approfondissements sur la description des phénomènes et leurs démonstrations.
