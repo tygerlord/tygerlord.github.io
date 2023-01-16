@@ -1,6 +1,6 @@
 ---
 layout: post_fr
-title_en: /en/2023/01/10/ChatGPT-Le-grand-remplacement
+title_en: /en/2023/01/10/ChatGPT-the-great-replacement
 tags: [chatgpt,humanoide,robot,travail] 
 excerpt: ChatGPT, nos sociétés condamnées ?
 ---
