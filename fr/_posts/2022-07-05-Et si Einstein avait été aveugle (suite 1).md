@@ -32,7 +32,7 @@ Le principe d'exclusion de Pauli devient une évidence, deux particules ne peuve
 
 ## *La théorie de De Broglie-Bohm*
 
-De Broglie imaginait une onde pilote dans sa [théorie de l'onde pilote](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_De_Broglie-Bohm). Je reprends à mon compte ses arguments, mais en remplaçant l'onde pilote par particule pilote. Ce n'ai pas une onde qui pilote une particule, mais une particule qui pilote une onde. Cette particule va plus vite que la vitesse de la lumière ce qui lui donne ce comportement étrange qu'on observe dans la physique quantique.
+De Broglie imaginait une onde pilote dans sa [théorie de l'onde pilote](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_De_Broglie-Bohm). Je reprends à mon compte ses arguments, mais en remplaçant l'onde pilote par particule pilote. Ce n'est pas une onde qui pilote une particule, mais une particule qui pilote une onde. Cette particule va plus vite que la vitesse de la lumière ce qui lui donne ce comportement étrange qu'on observe dans la physique quantique.
 
 
 ## *Einstein et l'action effrayante à distance*
